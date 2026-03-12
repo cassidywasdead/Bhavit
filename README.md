@@ -58,7 +58,7 @@ color:purple;
 <button id="no">No</button>
 
 <div id="result">
-🎉 Congratulations! You chose YES! 🎉
+🎉 Congratulations! You are getting fucked! 🎉
 </div>
 
 <script>
